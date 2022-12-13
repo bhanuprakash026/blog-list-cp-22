@@ -1,0 +1,31 @@
+/* Write your CSS code here */
+.list {
+  padding-left: 0px;
+}
+.title-date-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.title {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 20px;
+  color: #12022f;
+}
+.date {
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 16px;
+  color: #9aa5b1;
+}
+.para {
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 18px;
+  color: #616e7c;
+}
+.h-line {
+  border: solid 1px #9aa5b1;
+  opacity: 0.5;
+}
